@@ -45,7 +45,7 @@ QA Engineer: Ensures the backend functionalities are thoroughly tested and meet 
 
 Database Design
 
-🛠️ Features Overview
+🛠️ Features Breakdown
 
 1. API Documentation
 OpenAPI Standard: The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
